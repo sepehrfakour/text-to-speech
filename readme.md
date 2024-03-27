@@ -1,6 +1,6 @@
 # Speech-To-Text
 
-Reads text from a `.txt` file then outputs an audio `.mp3` file.
+Reads a text file then outputs an audio file.
 
 Powered by [Open AI Audio API](https://platform.openai.com/docs/guides/speech-to-text)
 
