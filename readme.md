@@ -8,7 +8,8 @@ Note: 4096 character limit per API call. To upload longer text, modify script to
 
 # Requirements
 
-Node.js
+- Node.js
+- Open AI account
 
 # Usage
 
