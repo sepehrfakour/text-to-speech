@@ -2,3 +2,8 @@
 /node_modules
 .env
 speech.mp3
+
+/text
+!/text/data.txt
+
+/output
